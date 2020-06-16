@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.645
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructionLine.CodingChallenge.Tests", "ConstructionLine.CodingChallenge.Tests\ConstructionLine.CodingChallenge.Tests.csproj", "{F4FB1EE4-AD05-47CB-BF1A-EE8ADEE75BA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructionLine.CodingChallenge.Tests", "ConstructionLine.CodingChallenge.Tests\ConstructionLine.CodingChallenge.Tests.csproj", "{F4FB1EE4-AD05-47CB-BF1A-EE8ADEE75BA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructionLine.CodingChallenge", "ConstructionLine.CodingChallenge\ConstructionLine.CodingChallenge.csproj", "{99D75B27-2A68-4ECA-AB37-8DA530E8E3F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructionLine.CodingChallenge", "ConstructionLine.CodingChallenge\ConstructionLine.CodingChallenge.csproj", "{99D75B27-2A68-4ECA-AB37-8DA530E8E3F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
